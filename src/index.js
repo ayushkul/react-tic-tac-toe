@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App appName="RiverSys"/>
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
